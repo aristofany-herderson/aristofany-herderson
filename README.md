@@ -47,8 +47,13 @@
 ## ⚙️ &nbsp; Análise do Github
 
 <p align="left" style="display: flex; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=aristofany-herderson&layout=compact&border_radius=0&bg_color=000&hide_border=true&text_color=fff&title_color=fff" alt="Most Used Languages">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aristofany-herderson&layout=compact&border_radius=0&bg_color=000&hide_border=true&text_color=fff&title_color=fff" alt="Most Used Languages">
+  <h4>Estatísticas do Github</h4>
+  <img src="https://github-readme-stats.vercel.app/api?username=aristofany-herderson&layout=compact&border_radius=0&bg_color=000&hide_border=true&text_color=fff&title_color=fff&hide_rank=false&hide_title=true" alt="Most Used Languages">
+
+  <br>
+  
+  <h4>Linguagens Mais Usadas</h4>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aristofany-herderson&layout=compact&border_radius=0&bg_color=000&hide_border=true&text_color=fff&title_color=fff&custom_title=Liguagens%20Mais%20Usadas&hide_title=true" alt="Most Used Languages">
 <p>
 
 ## 🧾 &nbsp; Entre em contato
