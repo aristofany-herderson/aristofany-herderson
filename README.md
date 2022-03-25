@@ -1,6 +1,6 @@
 <img align="right" height="590em" src="./githubcard.jpg"/>
-<h1 align="left">Olá 👋, Eu sou Aristofany Herderson!</h1>
-<p>
+<h1 align="left">Olá, Eu sou Aristofany Herderson!</h1>
+
 - 🔥 Desenvolvedor front-end, focado em tirar seus projetos do papel
 
 - 🔭 Trabalho, atualmente, como freelancer
@@ -13,7 +13,7 @@
 
 - ⚡ Fato divertido **Fascinado por tecnologia**
 
-<br><br>
+<br />
 
 ## 🛠️ &nbsp; Stack de Tecnologias
 
@@ -42,10 +42,16 @@
 ![Markdown](https://img.shields.io/badge/MARKDOWN-000000.svg?style=for-the-badge&labelColor=000&logo=markdown&logoColor=fff&logoWidth=20)
 ![Visual Studio Code](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-000000.svg?style=for-the-badge&labelColor=000&logo=visual-studio-code&logoColor=fff&logoWidth=20)
 
-<br><br>
+<br />
 
-## 🔗 &nbsp; Entre em contato
+## ⚙️ &nbsp; Análise do Github
 
+<p align="left" style="display: flex; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=aristofany-herderson&layout=compact&border_radius=0&bg_color=000&hide_border=true&text_color=fff&title_color=fff" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aristofany-herderson&layout=compact&border_radius=0&bg_color=000&hide_border=true&text_color=fff&title_color=fff" alt="Most Used Languages">
+<p>
+
+## 🧾 &nbsp; Entre em contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aristofanyherderson/" target="_blank">
