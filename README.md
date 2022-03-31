@@ -5,9 +5,9 @@
 
 - 🔭 Trabalho, atualmente, como freelancer
 
-- 👨‍💻 Todos os meus projetos estão disponíveis no [Github](https://github.com/aristofanyherderson?tab=repositories)
+- 👨‍💻 Todos os meus projetos estão disponíveis no [Github](https://github.com/aristofany-herderson?tab=repositories)
 
-- ▶️ Eu regurlamente posto conteúdo no [Instagram](https://instagram.com/programmeraristofanyherderson)
+- ▶️ Eu regurlamente posto conteúdo no [Instagram](https://instagram.com/aristofanyherderson/)
 
 - 💬 Pergunte-me sobre **HTML, CSS, JavaScript, Typescript, React**
 
@@ -61,10 +61,10 @@
 ## 🧾 &nbsp; Entre em contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aristofanyherderson/" target="_blank">
+  <a href="https://www.linkedin.com/in/aristofany-herderson/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LINKEDIN-000000.svg?style=for-the-badge&labelColor=0a66c2&logo=linkedin&logoColor=fff&logoWidth=20" alt="linkedin"/>
   </a>
-  <a href="https://twitter.com/AristofanyHerd1" target="_blank">
+  <a href="https://twitter.com/aristofanyherde" target="_blank">
     <img align="center" src="https://img.shields.io/badge/TWITTER-000000.svg?style=for-the-badge&labelColor=1d9bf0&logo=twitter&logoColor=fff&logoWidth=20" alt="linkedin"/>
   </a>
   <a href="https://www.instagram.com/aristofanyherderson/" target="_blank">
