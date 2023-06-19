@@ -15,7 +15,7 @@
 
 <br>
 
-<h4 align="center">Connect with me</h4>
+<h3 align="center">Connect with me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aristofany-herderson/" target="_blank">
@@ -30,7 +30,7 @@
 </p>
 
 <br>
-<h4 align="center">Languages and tools</h4>
+<h3 align="center">Languages and tools</h3>
 <p align="center" >
 <img src="https://img.shields.io/badge/HTML-151515.svg?style=for-the-badge&labelColor=000&logo=html5&logoColor=F07900&logoWidth=20" />
 <img src="https://img.shields.io/badge/CSS-151515.svg?style=for-the-badge&labelColor=000&logo=css3&logoColor=F07900&logoWidth=20" />
@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-151515.svg?style=for-the-badge&labelColor=000&logo=visual-studio-code&logoColor=F07900&logoWidth=20" />
 </p>
 <br>
-<h4 align="center">Github Stats</h4>
+<h3 align="center">Github Stats</h3>
 <p><img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=aristofany-herderson&show_icons=true&bg_color=151515&icon_color=F07900&title_color=F07900&hide_border=true&border_radius=10&card_width=600&custom_title=Github%20Stats&text_color=FFFFFF&text_bold=false&ring_color=FA8B00" alt="aristofany-herderson" /></p>
 
 <p><img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aristofany-herderson&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=600&background=151515&sideNums=F07900" alt="aristofany-herderson"/></p>
