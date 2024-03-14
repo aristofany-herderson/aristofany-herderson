@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋🏻, I'm Aristofany</h1>
-<h3 align="center">Front-end developer & IFRN estudent.</h3>
+<h3 align="center">Front-end developer</h3>
 
 <br>
 
@@ -9,9 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/aristofany-herderson?tab=repositories)
 
-- 💬 Ask me about **Javascript, PHP, React, Next.js**
-
-- ⚡ Fun fact **I am funny**
+- 💬 Ask me about **Typescript, Next.js and CSS**
 
 <br>
 
@@ -32,18 +30,12 @@
 <br>
 <h3 align="center">Languages and tools</h3>
 <p align="center" >
-<img src="https://img.shields.io/badge/HTML-141a23.svg?style=for-the-badge&labelColor=000&logo=html5&logoColor=F07900&logoWidth=20" />
-<img src="https://img.shields.io/badge/CSS-141a23.svg?style=for-the-badge&labelColor=000&logo=css3&logoColor=F07900&logoWidth=20" />
-<img src="https://img.shields.io/badge/JAVASCRIPT-141a23.svg?style=for-the-badge&labelColor=000&logo=javascript&logoColor=F07900&logoWidth=20" />
-<img src="https://img.shields.io/badge/PHP-141a23.svg?style=for-the-badge&labelColor=000&logo=php&logoColor=F07900&logoWidth=20" />
-<img src="https://img.shields.io/badge/REACT-141a23.svg?style=for-the-badge&labelColor=000&logo=react&logoColor=F07900&logoWidth=20" />
+<img src="https://img.shields.io/badge/TYPESCRIPT-141a23.svg?style=for-the-badge&labelColor=000&logo=typescript&logoColor=F07900&logoWidth=20" />
 <img src="https://img.shields.io/badge/NEXT-141a23.svg?style=for-the-badge&labelColor=000&logo=next.js&logoColor=F07900&logoWidth=20" />
+<img src="https://img.shields.io/badge/PHP-141a23.svg?style=for-the-badge&labelColor=000&logo=php&logoColor=F07900&logoWidth=20" />
 <img src="https://img.shields.io/badge/SASS-141a23.svg?style=for-the-badge&labelColor=000&logo=sass&logoColor=F07900&logoWidth=20" />
-<img src="https://img.shields.io/badge/STYLED%20COMPONENTS-141a23.svg?style=for-the-badge&labelColor=000&logo=styledcomponents&logoColor=F07900&logoWidth=20" />
-<img src="https://img.shields.io/badge/JAVASCRIPT-141a23.svg?style=for-the-badge&labelColor=000&logo=javascript&logoColor=F07900&logoWidth=20" />
 <img src="https://img.shields.io/badge/NODEJS-141a23.svg?style=for-the-badge&labelColor=000&logo=node.js&logoColor=F07900&logoWidth=20" />
 <img src="https://img.shields.io/badge/GIT-141a23.svg?style=for-the-badge&labelColor=000&logo=git&logoColor=F07900&logoWidth=20" />
-<img src="https://img.shields.io/badge/GITHUB-141a23.svg?style=for-the-badge&labelColor=000&logo=github&logoColor=F07900&logoWidth=20" />
 <img src="https://img.shields.io/badge/MARKDOWN-141a23.svg?style=for-the-badge&labelColor=000&logo=markdown&logoColor=F07900&logoWidth=20" />
 <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-141a23.svg?style=for-the-badge&labelColor=000&logo=visual-studio-code&logoColor=F07900&logoWidth=20" />
 </p>
