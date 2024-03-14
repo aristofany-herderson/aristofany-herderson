@@ -13,8 +13,6 @@
 
 <br>
 
-<h3 align="center">Connect with me</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/aristofany-herderson/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LINKEDIN-000000.svg?style=for-the-badge&labelColor=141a23&logo=linkedin&logoColor=F07900&logoWidth=20" alt="linkedin"/>
@@ -32,12 +30,10 @@
 <p align="center" >
 <img src="https://img.shields.io/badge/TYPESCRIPT-141a23.svg?style=for-the-badge&labelColor=000&logo=typescript&logoColor=F07900&logoWidth=20" />
 <img src="https://img.shields.io/badge/NEXT-141a23.svg?style=for-the-badge&labelColor=000&logo=next.js&logoColor=F07900&logoWidth=20" />
+<img src="https://img.shields.io/badge/NODEJS-141a23.svg?style=for-the-badge&labelColor=000&logo=node.js&logoColor=F07900&logoWidth=20" />
 <img src="https://img.shields.io/badge/PHP-141a23.svg?style=for-the-badge&labelColor=000&logo=php&logoColor=F07900&logoWidth=20" />
 <img src="https://img.shields.io/badge/SASS-141a23.svg?style=for-the-badge&labelColor=000&logo=sass&logoColor=F07900&logoWidth=20" />
-<img src="https://img.shields.io/badge/NODEJS-141a23.svg?style=for-the-badge&labelColor=000&logo=node.js&logoColor=F07900&logoWidth=20" />
 <img src="https://img.shields.io/badge/GIT-141a23.svg?style=for-the-badge&labelColor=000&logo=git&logoColor=F07900&logoWidth=20" />
-<img src="https://img.shields.io/badge/MARKDOWN-141a23.svg?style=for-the-badge&labelColor=000&logo=markdown&logoColor=F07900&logoWidth=20" />
-<img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-141a23.svg?style=for-the-badge&labelColor=000&logo=visual-studio-code&logoColor=F07900&logoWidth=20" />
 </p>
 <br>
 <h3 align="center">Github Stats</h3>
