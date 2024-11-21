@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋🏻, I'm Aristofany</h1>
-<h3 align="center">Front-end developer</h3>
+<h3 align="center">Full-stack developer</h3>
 
 <br>
 
-- 🔭 I'm currently working on [Wanna](https://www.wanna.com/)
+- 🔭 I'm currently working on [Wanna Inc.](https://wannaparlay.com/about/)
 
 - 🌱 I’m currently learning **Next.js**
 
@@ -37,6 +37,4 @@
 </p>
 <br>
 <h3 align="center">Github Stats</h3>
-<p><img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=aristofany-herderson&show_icons=true&bg_color=141a23&icon_color=F07900&title_color=F07900&hide_border=true&border_radius=10&card_width=600&custom_title=Github%20Stats&text_color=FFFFFF&text_bold=false&ring_color=FA8B00" alt="aristofany-herderson" /></p>
-
 <p><img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aristofany-herderson&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=600&background=141a23&sideNums=F07900" alt="aristofany-herderson"/></p>
