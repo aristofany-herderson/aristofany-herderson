@@ -14,14 +14,14 @@
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aristofany-herderson/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LINKEDIN-000000.svg?style=for-the-badge&labelColor=141a23&logo=linkedin&logoColor=F07900&logoWidth=20" alt="linkedin"/>
+  <a href="https://www.linkedin.com/in/aristofany-herderson" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LINKEDIN-000000.svg?style=for-the-badge&labelColor=141a23&logo=inspire&logoColor=F07900" alt="linkedin"/>
   </a>
   <a href="https://twitter.com/aristofanyherde" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/TWITTER-000000.svg?style=for-the-badge&labelColor=141a23&logo=twitter&logoColor=F07900&logoWidth=20" alt="linkedin"/>
+    <img align="center" src="https://img.shields.io/badge/TWITTER-000000.svg?style=for-the-badge&labelColor=141a23&logo=x&logoColor=F07900" alt="linkedin"/>
   </a>
   <a href="https://www.instagram.com/aristofanyherderson/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/INSTAGRAM-000000.svg?style=for-the-badge&labelColor=141a23&logo=instagram&logoColor=F07900&logoWidth=20" alt="linkedin"/>
+    <img align="center" src="https://img.shields.io/badge/INSTAGRAM-000000.svg?style=for-the-badge&labelColor=141a23&logo=instagram&logoColor=F07900" alt="linkedin"/>
   </a>
 </p>
 
@@ -37,4 +37,4 @@
 </p>
 <br>
 <h3 align="center">Github Stats</h3>
-<p><img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aristofany-herderson&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=600&background=141a23&sideNums=F07900" alt="aristofany-herderson"/></p>
+<p><img width="100%" align="center" src="https://streak-stats.demolab.com?user=aristofany-herderson&theme=dark&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&card_width=600&background=141a23&sideNums=F07900" alt="aristofany-herderson"/></p>
