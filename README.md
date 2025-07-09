@@ -37,4 +37,4 @@
 </p>
 <br>
 <h3 align="center">Github Stats</h3>
-<p><img width="100%" align="center" src="https://streak-stats.demolab.com?user=aristofany-herderson&theme=dark&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&card_width=600&background=141a23&sideNums=F07900" alt="aristofany-herderson"/></p>
+<p align="center"><img width="100%" src="https://streak-stats.demolab.com?user=aristofany-herderson&theme=dark&hide_border=true&border_radius=0&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600&background=141A23&sideNums=F07900" alt="GitHub Streak" /></p>
