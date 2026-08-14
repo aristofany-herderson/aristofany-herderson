@@ -3,13 +3,13 @@
 
 <br>
 
-- 🔭 I'm currently working on [Wanna Inc.](https://wannaparlay.com/about/)
+- 🔭 I'm currently researching on [INCT-CQA](https://www.cin.ufpe.br/~inct-cqa/#/)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Quantum Computing**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/aristofany-herderson?tab=repositories)
 
-- 💬 Ask me about **Typescript, Next.js and CSS**
+- 💬 Ask me about **C++, Quantum Walks, Quantum Reservoir Computing, Typescript, Next.js**
 
 <br>
 
@@ -28,6 +28,9 @@
 <br>
 <h3 align="center">Languages and tools</h3>
 <p align="center" >
+<img src="https://img.shields.io/badge/C++-141a23.svg?style=for-the-badge&labelColor=000&logo=cplusplus&logoColor=F07900&logoWidth=20" />
+<img src="https://img.shields.io/badge/CMAKE-141a23.svg?style=for-the-badge&labelColor=000&logo=cmake&logoColor=F07900&logoWidth=20" />
+<img src="https://img.shields.io/badge/PYTHON-141a23.svg?style=for-the-badge&labelColor=000&logo=python&logoColor=F07900&logoWidth=20" />
 <img src="https://img.shields.io/badge/TYPESCRIPT-141a23.svg?style=for-the-badge&labelColor=000&logo=typescript&logoColor=F07900&logoWidth=20" />
 <img src="https://img.shields.io/badge/NEXT-141a23.svg?style=for-the-badge&labelColor=000&logo=next.js&logoColor=F07900&logoWidth=20" />
 <img src="https://img.shields.io/badge/NODEJS-141a23.svg?style=for-the-badge&labelColor=000&logo=node.js&logoColor=F07900&logoWidth=20" />
